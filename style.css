@@ -1,0 +1,28 @@
+table, tr, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 30%;
+    text-align: center;
+}
+
+#images {
+    width: 30px;
+}
+
+.times {
+    text-align: center;
+    height: 50px;
+}
+
+.imagens {
+    width: 30%;
+}
+
+#logo {
+    width: 10%;
+}
+
+#informative {
+    text-align: justify;
+    width: 40%;
+}
